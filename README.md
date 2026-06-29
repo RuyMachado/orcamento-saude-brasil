@@ -1,4 +1,4 @@
-# Orçamento SUS BR
+# Orçamento Saúde BR
 
 Análise dos gastos federais destinados à função Saúde entre 2015 e 2024, com base nos dados públicos do Portal da Transparência.
 
